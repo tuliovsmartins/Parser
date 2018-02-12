@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0"
+             xmlns="http://java.sun.com/xml/ns/persistence"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_1.xsd">
+             
+    	<persistence-unit name="parseconfig">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <class>com.ef.Entity.ParsedLog</class>
+        <class>com.ef.Entity.BlockedIps</class>
+        <properties>
+            <property name="hibernate.connection.url" value="jdbc:mysql://localhost:3306/parser?useSSL=false" />
+            <property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver" />
+            <property name="hibernate.connection.username" value="root" />
+            <property name="hibernate.connection.password" value="" />
+            <property name="hibernate.archive.autodetection" value="class" />
+            <property name="hibernate.format_sql" value="true" />
+            <property name="hibernate.hbm2ddl.auto " value="update" />
+            <property name="hibernate.show_sql" value="false" />
+            <property name="hibernate.logging.level" value="0" />
+        </properties>
+    </persistence-unit>
+</persistence>

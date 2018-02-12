@@ -1,0 +1,15 @@
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Entity/BlockedIps.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Controller/ParserController.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/View/Model/ArgumentsVM.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Entity/ParsedLog.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Exception/ParserException.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Service/LogService.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Config/ParseSqlConfig.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Util/Ipv4Util.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Util/Duration.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Service/LogParser.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Parser.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Util/DateTimeUtil.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Config/ParserConfig.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Repository/ParseSqlRepository.java
+/home/tulio/eclipse-workspace/Parser/src/main/java/com/ef/Repository/ParseLogRepository.java
